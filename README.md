@@ -11,3 +11,7 @@
 我们期望通过大家的共同努力，不断完善这份排行榜，使其能更精准、全面地展现中国高校在开源大模型领域的活力与成果，为推动该领域的交流与发展贡献一份微薄之力。
 
 您如果也有兴趣欢迎一起加入我们团队，感谢大家的关注与支持！ 
+
+https://github.com/David-chen-23/Chinese_LLM/blob/main/%E4%BF%8A%E5%BF%A0%E6%98%9F%E8%8A%92%E6%A6%9C.png
+
+<img width="369" alt="俊忠星芒榜" src="https://github.com/user-attachments/assets/842ef306-c607-4a3b-b414-8c96d03afeb5" />
